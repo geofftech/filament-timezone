@@ -1,3 +1,4 @@
 # GeoffTech - Filament Timezone
 
-- Timezone enum and fields
+- Timezone enum
+- select timezone field
